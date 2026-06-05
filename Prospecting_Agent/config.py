@@ -108,8 +108,10 @@ PRODUCT_POSITIONING = {
     "Vantagepoint": "ERP for architecture, engineering, and consulting firms. Project-based accounting, resource planning, CRM. Best fit: A&E firms $25M+.",
     "Maconomy": "ERP for international professional services firms. Multi-currency, multi-entity. Best fit: global consulting and services firms.",
     "Ajera": "ERP for small-to-mid A&E firms. Project accounting and management. Best fit: A&E firms under $25M.",
+    "GovWin IQ": "Market intelligence platform for government contractors. Identifies federal, state, local, and education opportunities years before RFP release, with contract awards data, agency intelligence, and competitive analysis. Best fit: any firm pursuing government contracts (federal, SLED, or both), from small businesses through large primes.",
+    "Replicon": "Cloud-based time tracking and professional services automation. DCAA-compliant timesheets, project time and expense management, billing automation, and resource utilization. Best fit: services firms, consultancies, and government contractors of any size needing audit-ready time tracking.",
     "Other": "General Deltek positioning - project-based business software for project-driven organizations.",
 }
 
 # Order shown in the product-fit dropdown.
-PRODUCT_OPTIONS = ["Other", "Costpoint", "Vantagepoint", "Maconomy", "Ajera"]
+PRODUCT_OPTIONS = ["Other", "Costpoint", "Vantagepoint", "Maconomy", "Ajera", "GovWin IQ, Replicon"]
