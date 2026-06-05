@@ -3,5 +3,5 @@
 # borders, tool_choice, Exa search_and_contents/get_contents).
 streamlit==1.55.0
 anthropic==0.104.1
-exa-py==1.8.0
+exa-py==2.13.0
 python-dotenv==1.0.1
