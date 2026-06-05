@@ -114,4 +114,4 @@ PRODUCT_POSITIONING = {
 }
 
 # Order shown in the product-fit dropdown.
-PRODUCT_OPTIONS = ["Other", "Costpoint", "Vantagepoint", "Maconomy", "Ajera", "GovWin IQ, Replicon"]
+PRODUCT_OPTIONS = ["Other", "Costpoint", "Vantagepoint", "Maconomy", "Ajera", "GovWin IQ", "Replicon"]
