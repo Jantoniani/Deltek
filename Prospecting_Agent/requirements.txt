@@ -1,0 +1,7 @@
+# Pinned for reproducible installs. Bump as needed; these are known-compatible
+# lower bounds for the features the app uses (colored markdown, st.container
+# borders, tool_choice, Exa search_and_contents/get_contents).
+streamlit==1.39.0
+anthropic==0.40.0
+exa-py==1.8.0
+python-dotenv==1.0.1
